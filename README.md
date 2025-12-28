@@ -7,8 +7,7 @@ The model is trained on medical data and deployed using Streamlit for user inter
 
 
 ## 🚀 Live Demo
-https://heartdiseaseprediction-xxxx.streamlit.app
-
+heartdisease_prediction ∙ main ∙ app.py
 
 ---
 
