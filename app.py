@@ -4,11 +4,11 @@ import pandas as pd
 import joblib
 
 # Load saved model, scaler, and expected columns
-model = joblib.load("knn_heart_model.pkl")
-scaler = joblib.load("heart_scaler.pkl")
-expected_columns = joblib.load("heart_columns.pkl")
+model = joblib.load("KNN_heart.pkl")
+scaler = joblib.load("scaler.pkl")
+expected_columns = joblib.load("columns.pkl")
 
-st.title("Heart Stroke Prediction by akarsh")
+st.title("Heart Stroke Prediction by omkar")
 st.markdown("Provide the following details to check your heart stroke risk:")
 
 # Collect user input
