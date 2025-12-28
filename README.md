@@ -5,6 +5,11 @@
  This project predicts whether a person has heart disease using Machine Learning.
 The model is trained on medical data and deployed using Streamlit for user interaction.
 
+
+## 🚀 Live Demo
+https://heartdiseaseprediction-xxxx.streamlit.app
+
+
 ---
 
  Project Workflow
